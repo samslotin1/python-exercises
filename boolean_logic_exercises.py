@@ -1,5 +1,7 @@
 first = "Hello World"
 
+# This is a comment.
+
 print("I AM A COMPUTER!")
 
 if 1 < 2 and 4 > 2:
